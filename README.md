@@ -4,7 +4,7 @@ Sample for showing rounded corner components on xamarin.forms
 
 Tutorial:
 
-
+https://mp.weixin.qq.com/s/2bI_lYiJO1HdcX4IPGArpA
 
 QQ Group:
 
